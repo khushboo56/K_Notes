@@ -34,5 +34,5 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## Screenshots
 
-![signup_or_signin](https://github.com/khushboo56/Keep_notes/tree/main/screenshots/lgn.jpg)
-![notebook](https://github.com/khushboo56/Keep_notes/tree/main/screenshots/notes.jpg)
+![signup_or_signin](https://github.com/khushboo56/Keep_notes/blob/main/screenshots/lgn.jpg)
+![notebook](https://github.com/khushboo56/Keep_notes/blob/main/screenshots/notes.jpg)
