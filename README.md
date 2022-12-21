@@ -18,7 +18,7 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## How to use it
 
-1. Click on the link https://muskan89.github.io/Keep_notes/
+1. Click on the link https://khushboo56.github.io/Keep_notes/
 
 2. If you have not an account then sign-up.
 
@@ -34,5 +34,5 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## Screenshots
 
-![signup_or_signin](https://github.com/muskan89/Hacktoberfest-Contribution/blob/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20signin-signup%20page.png)
-![notebook](https://github.com/muskan89/Hacktoberfest-Contribution/blob/master/contributions/KeepNotes_using_reactjs/Screenshot%20of%20notebook.png)
+![signup_or_signin](https://github.com/khushboo56/Keep_notes/screenshots/lgn.jpg)
+![notebook](https://github.com/khushboo56/Keep_notes/screenshots/notes.jpg)
