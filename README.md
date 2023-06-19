@@ -1,4 +1,4 @@
-# K_notes
+# Keep notes
 An app to keep user’s quick notes organised with dates having features of sign-up, signin, adding note,deleting note , log-out .User can check their notes on Mobile/PC/Tablet by signing in their account.
 
 ## Features
@@ -18,7 +18,7 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## How to use it
 
-1. Click on the link https://khushboo56.github.io/K_Notes/
+1. Click on the link https://khushboo56.github.io/KeepNotes/
 
 2. If you have not an account then sign-up.
 
