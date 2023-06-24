@@ -18,7 +18,7 @@ An app to keep user’s quick notes organised with dates having features of sign
 
 ## How to use it
 
-1. Click on the link https://khushboo56.github.io/Keep_Notes/
+1. Click on the link https://khushboo56.github.io/Keep_notes/
 
 2. If you have not an account then sign-up.
 
